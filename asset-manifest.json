@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Diegodelias/actividad-React1/static/css/main.37a9dbaf.chunk.css",
+    "main.js": "/Diegodelias/actividad-React1/static/js/main.99e63705.chunk.js",
+    "main.js.map": "/Diegodelias/actividad-React1/static/js/main.99e63705.chunk.js.map",
+    "runtime-main.js": "/Diegodelias/actividad-React1/static/js/runtime-main.5889bd4d.js",
+    "runtime-main.js.map": "/Diegodelias/actividad-React1/static/js/runtime-main.5889bd4d.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/Diegodelias/actividad-React1/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/Diegodelias/actividad-React1/static/js/2.c0a0a7e2.chunk.js.map",
+    "index.html": "/Diegodelias/actividad-React1/index.html",
+    "static/css/main.37a9dbaf.chunk.css.map": "/Diegodelias/actividad-React1/static/css/main.37a9dbaf.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/Diegodelias/actividad-React1/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5889bd4d.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.37a9dbaf.chunk.css",
+    "static/js/main.99e63705.chunk.js"
+  ]
+}
